@@ -1,4 +1,4 @@
-class Fasd < Formula
+class FasdGuusli < Formula
   desc "CLI tool for quick access to files and directories"
   homepage "https://github.com/guusli/fasd"
   url "https://github.com/guusli/fasd/archive/refs/tags/1.0.1.tar.gz"
